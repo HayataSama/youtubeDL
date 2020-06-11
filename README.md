@@ -1,8 +1,5 @@
-**
+# youtubeDL
 
-## youtubeDL
-
-**
 
 This is a simple python program that uses [pytube3](https://github.com/get-pytube/pytube3) to download videos from Youtube
 
